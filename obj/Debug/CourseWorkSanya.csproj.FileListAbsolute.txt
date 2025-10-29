@@ -1,0 +1,11 @@
+C:\Users\Вадим\source\repos\CourseWorkSanya\bin\Debug\CourseWorkSanya.exe.config
+C:\Users\Вадим\source\repos\CourseWorkSanya\bin\Debug\CourseWorkSanya.exe
+C:\Users\Вадим\source\repos\CourseWorkSanya\bin\Debug\CourseWorkSanya.pdb
+C:\Users\Вадим\source\repos\CourseWorkSanya\obj\Debug\CourseWorkSanya.csproj.AssemblyReference.cache
+C:\Users\Вадим\source\repos\CourseWorkSanya\obj\Debug\CourseWorkSanya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадим\source\repos\CourseWorkSanya\obj\Debug\CourseWorkSanya.Form1.resources
+C:\Users\Вадим\source\repos\CourseWorkSanya\obj\Debug\CourseWorkSanya.Properties.Resources.resources
+C:\Users\Вадим\source\repos\CourseWorkSanya\obj\Debug\CourseWorkSanya.csproj.GenerateResource.cache
+C:\Users\Вадим\source\repos\CourseWorkSanya\obj\Debug\CourseWorkSanya.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\CourseWorkSanya\obj\Debug\CourseWorkSanya.exe
+C:\Users\Вадим\source\repos\CourseWorkSanya\obj\Debug\CourseWorkSanya.pdb
